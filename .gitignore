@@ -1,5 +1,4 @@
-ldev
-obj/**
-*.swp
 **/*.pcap
 **/*.dSYM
+**/*.o
+**/*.swp
