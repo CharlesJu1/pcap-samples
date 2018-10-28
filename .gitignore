@@ -1,3 +1,5 @@
 ldev
 obj/**
 *.swp
+**/*.pcap
+**/*.dSYM
